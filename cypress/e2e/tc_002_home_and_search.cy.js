@@ -1,4 +1,4 @@
-describe('Challengue Grupo 10', () => {
+describe('Challengue Grupo 10 / TC-002:', () => {
 
   beforeEach(() => {
     // Al haber configurado baseUrl, solo necesitas '/'

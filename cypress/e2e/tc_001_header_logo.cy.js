@@ -1,4 +1,4 @@
-describe('Header / UI - TC-001: Logotipo principal', () => {
+describe('Challengue Grupo 10 / TC-001: Logotipo principal', () => {
 
     beforeEach(() => {
       // 1. Cargar la página principal

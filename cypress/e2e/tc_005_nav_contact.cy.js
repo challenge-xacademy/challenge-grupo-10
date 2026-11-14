@@ -1,4 +1,4 @@
-describe('Navegación - TC-002: Enlace de Contacto en Navbar', () => {
+describe('Challengue Grupo 10 / TC-005: Enlace de Contacto en Navbar', () => {
 
     beforeEach(() => {
       // 1. Visitar la página principal
